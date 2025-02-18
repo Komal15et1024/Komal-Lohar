@@ -5,14 +5,15 @@
 + 🎓 Gradueted with Master of Science Information Technology and Management | 🌐 Data & Design Enthusiast | 💻 Aspiring UX Designer and Business Data Analyst
 + 3 Years of Experience in SAP | Expertise in Stakeholder Management, Information Architecture, Requirement Gathering, Drawing Business Insights, SQL, and Excel
 
-🌱 What I’m currently learning...
-+ Python Development: Building a strong foundation in Python for data manipulation and analysis.
-+ Data Warehousing: Understanding the architecture and principles behind effective data warehousing.
-+ SQL: Enhancing proficiency in SQL for seamless data querying and management.
-+ UX Research: Developing a deep understanding of user needs through research and usability testing.
-+ Wireframing & Prototyping: Strengthening skills in creating intuitive wireframes and interactive prototypes.
-+ UI Design: Enhancing expertise in designing visually appealing and user-friendly interfaces.
-
+<h3 align="left">🌱 What I’m currently learning...</h3>
+<ul>
+  <li><strong>Python Development:</strong> Building a strong foundation in Python for data manipulation and analysis.</li>
+  <li><strong>Data Warehousing:</strong> Understanding the architecture and principles behind effective data warehousing.</li>
+  <li><strong>SQL:</strong> Enhancing proficiency in SQL for seamless data querying and management.</li>
+  <li><strong>UX Research:</strong> Developing a deep understanding of user needs through research and usability testing.</li>
+  <li><strong>Wireframing & Prototyping:</strong> Strengthening skills in creating intuitive wireframes and interactive prototypes.</li>
+  <li><strong>UI Design:</strong> Enhancing expertise in designing visually appealing and user-friendly interfaces.</li>
+</ul>
 
 <h3 align="left">Languages and Tools</h3>
 
@@ -31,7 +32,9 @@
 
 
 
-📫 How to reach me...
-+ LinkedIn: https://www.linkedin.com/in/komallohar/
-+ E-mail: lohar.komal.15et1024@gmail.com
-+ Mobile: +1 (945)267-6232
+<h3 align="left">📫 How to reach me...</h3>
+<ul>
+  <li>LinkedIn: https://www.linkedin.com/in/komallohar/
+  <li>E-mail: lohar.komal.15et1024@gmail.com
+  <li>Mobile: +1 (945) 267-6232</li>
+</ul>
