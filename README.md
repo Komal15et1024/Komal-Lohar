@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Hi👋,+Hi, I’m Komal Lohar" alt="Typing VAG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Hi👋,+I’m Komal Lohar" alt="Typing VAG">
 </div>
 
 + 🎓 Gradueted with Master of Science Information Technology and Management | 🌐 Data & Design Enthusiast | 💻 Aspiring UX Designer and Business Data Analyst
