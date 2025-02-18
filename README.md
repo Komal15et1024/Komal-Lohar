@@ -34,7 +34,7 @@
 
 <h3 align="left">📫 How to reach me...</h3>
 <ul>
-  <li>LinkedIn: https://www.linkedin.com/in/komallohar/
-  <li>E-mail: lohar.komal.15et1024@gmail.com
+  <li>LinkedIn: https://www.linkedin.com/in/komallohar/</li>
+  <li>E-mail: lohar.komal.15et1024@gmail.com</li>
   <li>Mobile: +1 (945) 267-6232</li>
 </ul>
